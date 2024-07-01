@@ -8,4 +8,4 @@
 4. **Report Generation:** Creating a comprehensive report based on the classification results.
 
 ## Additional Details:
-The `data_prep.ipynb` was run on Windows, whereas the `.py` files were executed on Linux Ubuntu.
+The `data_prep.ipynb` was run on Windows, whereas the `.py` files were executed on Linux.
