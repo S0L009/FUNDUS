@@ -14,5 +14,15 @@
 4. **Glaucoma Classification:** Differentiating between glaucoma suspects and healthy individuals.
 5. **Report Generation:** Creating a comprehensive report based on the classification results.
 
+## Results:
+
+| Prediction | Groundtruth |
+|------------|-------------|
+| ![Prediction Image](ppred_1.png) | ![Groundtruth Image](llabel_1.png) |
+
+### Metrics
+
+![Metrics Image](metrics.png)
+
 ### Not Imp info:
 The `data_prep.ipynb` was run on Windows, whereas the `.py` files were executed on Linux.
