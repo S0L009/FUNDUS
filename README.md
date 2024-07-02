@@ -25,8 +25,14 @@
 
 ### Metrics
 <div align="center">
+| Metric        | Value     |
+|---------------|-----------|
+| Accuracy      | 0.85      |
+| Precision     | 0.78      |
+| Recall        | 0.92      |
+| F1 Score      | 0.84      |
+| IoU           | 0.70      |
 
-![Metrics Image](metrics.png)
 
 </div>
 
