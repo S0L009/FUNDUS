@@ -23,7 +23,7 @@
 |------------|-------------|
 | ![Prediction Image](ppred_1.png) | ![Groundtruth Image](llabel_1.png) |
 
-### Metrics
+## Metrics
 - Accuracy: 94.79
 - Precision: 97.07
 - Recall: 92.50
