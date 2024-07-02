@@ -7,7 +7,7 @@
 </div>
 
 ## Hardware
-# 🫷🫸 Goin onnnnnnnn......
+# 🫷🫸
 
 ## Pipeline:
 
