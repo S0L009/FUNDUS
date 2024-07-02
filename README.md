@@ -24,8 +24,11 @@
 | ![Prediction Image](ppred_1.png) | ![Groundtruth Image](llabel_1.png) |
 
 ### Metrics
+<div align="center">
 
 ![Metrics Image](metrics.png)
+
+</div>
 
 ### Not Imp info:
 The `data_prep.ipynb` was run on Windows, whereas the `.py` files were executed on Linux.
