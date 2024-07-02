@@ -6,6 +6,9 @@
 
 </div>
 
+## Hardware
+🫷🫸
+
 ## Pipeline:
 
 1. **Capturing High-Resolution Fundus Images:** Utilizing reinforcement learning for precise joystick movements to capture high-quality fundus images.
