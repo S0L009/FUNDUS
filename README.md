@@ -30,6 +30,3 @@
 - F1 Score: 94.73
 - Dice Score - 94.40
 - IoU: 90.24
-
-### Not Imp info:
-The `data_prep.ipynb` was run on Windows, whereas the `.py` files were executed on Linux.
